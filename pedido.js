@@ -15,5 +15,5 @@ btn.style.transition = "all 0.3s ease";
 });
 
 function tanks() {
-alert("tanks :)");
+alert("Te amo minha vida s2 :)");
 }  
